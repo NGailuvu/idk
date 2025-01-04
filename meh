@@ -83,5 +83,4 @@ game:GetService("UserInputService").InputBegan:Connect(onInputBegan)
 -- Create the info bar when the script starts
 createInfoBar()
 
--- Send the auto message when the script executes
-sendMessage("Auto 1234 Keybinds V1 by cooldude10193/liedetector77")
+
